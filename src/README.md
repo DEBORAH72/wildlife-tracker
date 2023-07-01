@@ -1,5 +1,5 @@
 # Wildlife Tracker
-#### Wildlife Tracker, April 28th 2019
+#### Wildlife Tracker
 #### By **Elsie Deborah72**
 ![](screenshots/screenshot1.png)
 ![]()
