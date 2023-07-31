@@ -34,7 +34,7 @@ An application that allows Rangers to track wildlife sightings in the area.
 
 ## Live Demo
 To view the page click on the link below
-[https://debztopublish
+[https://chimerical-lily-41708c.netlify.app
 
 ## Tests
 

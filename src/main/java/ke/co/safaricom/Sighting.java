@@ -13,6 +13,7 @@ public class Sighting implements DatabaseManagement {
         String sql = "UPDATE sightings SET location = :location, ranger_name = :ranger_name WHERE id = :id";
 
         try (Connection con = DB.sql2o.open()) {
+            Object location;
             con.createQuery(sql)
                     .addParameter("location", location)
                     .addParameter("ranger_name", ranger_name) // Corrected parameter name here
