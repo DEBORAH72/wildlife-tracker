@@ -1,7 +1,5 @@
 package ke.co.safaricom;
 
-package models;
-
 import org.sql2o.Sql2o;
 
 public class Database {

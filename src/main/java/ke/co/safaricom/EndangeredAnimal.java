@@ -1,9 +1,8 @@
 package models;
 
-import interfaces.AnimalInterface;
+import ke.co.safaricom.Database;
 import org.sql2o.Connection;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 

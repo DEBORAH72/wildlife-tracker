@@ -1,14 +1,16 @@
-import static spark.Spark.*;
+package ke.co.safaricom;
 
 import models.Animal;
 import models.EndangeredAnimal;
-import models.Sighting;
 import org.sql2o.Connection;
 import spark.ModelAndView;
-import spark.template.handlebars.*;
+import spark.template.handlebars.;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import static spark.Spark.port;
+import static spark.Spark.staticFileLocation;
 
 
 public class App {
